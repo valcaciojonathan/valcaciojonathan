@@ -1,8 +1,7 @@
 # Olá 👋
 
-Me chamo Jonathan.
 
-💻 Estudando desenvolvimento de Sistema atualmente no 3° semestre!  
+💻 Estudante de desenvolvimento de Sistema atualmente no 3° semestre!  
 📚 Java | Spring Boot | React | MySql | Kotlin | CSS | HTML 
 🚀 Buscando evoluir como desenvolvedor
 
